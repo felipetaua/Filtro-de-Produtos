@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação web que permite aos usuários visualizar, filtrar e buscar produtos com base em categorias ou nomes. É uma implementação simples de HTML, CSS e JavaScript para criar uma interface interativa.
 
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/Filtro-de-Produtos/)
+
+
 ## Recursos
 
 - **Filtragem de Produtos**: Visualize produtos por categorias como `Topwear`, `Bottomwear`, `Jacket` e `Watch`.
